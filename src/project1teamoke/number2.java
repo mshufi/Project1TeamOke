@@ -9,5 +9,7 @@ package project1teamoke;
  * @author LAB-B
  */
 public class number2 {
-    
+    public static void num2(){
+        System.out.println("Number 2");
+    }
 }
